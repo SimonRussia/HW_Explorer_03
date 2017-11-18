@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/SimonRussia/HW_Explorer_03.svg?branch=master)](https://travis-ci.org/SimonRussia/HW_Explorer_03) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 ## Проект Explorer (III этап)
 
 ### Соответствие порядкового номера и комбинации:
