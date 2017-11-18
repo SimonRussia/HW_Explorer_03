@@ -1,0 +1,51 @@
+
+SESSION OF RECORDING INTO LOG.TXT:	2017-Nov-09 02:55:08
+
+	name:	"f1.dat"
+	size:	0.256
+	date:	Fri Oct 20 22:50:18 2017
+
+
+SESSION OF RECORDING INTO LOG.TXT:	2017-Nov-09 02:55:12
+
+	name:	"f2.dat"
+	size:	0.284
+	date:	Thu Nov  9 01:27:46 2017
+
+
+SESSION OF RECORDING INTO LOG.TXT:	2017-Nov-09 02:55:14
+
+	name:	"f3.dat"
+	size:	0.256
+	date:	Fri Oct 20 22:50:18 2017
+
+
+SESSION OF RECORDING INTO LOG.TXT:	2017-Nov-09 02:55:25
+
+	name:	"f1.dat"
+	size:	0.256
+	date:	Fri Oct 20 22:50:18 2017
+
+	name:	"f2.dat"
+	size:	0.284
+	date:	Thu Nov  9 01:27:46 2017
+
+	name:	"f3.dat"
+	size:	0.256
+	date:	Fri Oct 20 22:50:18 2017
+
+
+SESSION OF RECORDING INTO LOG.TXT:	2017-Nov-09 03:10:29
+
+	name:	"f1.dat"
+	size:	0.256
+	date:	Fri Oct 20 22:50:18 2017
+
+	name:	"f2.dat"
+	size:	0.284
+	date:	Thu Nov  9 01:27:46 2017
+
+	name:	"f3.dat"
+	size:	0.256
+	date:	Fri Oct 20 22:50:18 2017
+
